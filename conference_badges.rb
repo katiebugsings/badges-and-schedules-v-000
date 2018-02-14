@@ -28,3 +28,4 @@ def batch_badge_creator(names)
   assign_rooms(array).each do |room|
     puts room
 end
+end
